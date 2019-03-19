@@ -12,8 +12,3 @@ steps:
   - env 
   - bash ./test.sh 
 
----
-kind: secret
-
-data:
-  my_secret: "od0__ahE6YdkRERBInqdOvjDovu7jRlI-2VNN9oMW8AK93yDOd72uMIm0xlv"
